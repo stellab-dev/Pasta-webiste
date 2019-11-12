@@ -17,3 +17,10 @@ div.contrast {
   align-items: center;
   flex-direction: column;
 }
+
+.round {
+  margin-left: 300px;
+  margin-right: 0px;
+  
+
+}
