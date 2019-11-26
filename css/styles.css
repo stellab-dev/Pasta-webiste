@@ -1,20 +1,22 @@
+
+
 h1 {
-  color:rgb(255, 89, 1000);
+  color:black;
   font-family: helvetica;
+  font-size: 72px;
   margin: 0px;
 }
 
 h2 {
-  color: rgb(400,89,100) ;
+  color: black ;
   font-family: helvetica;
+  font-style: italic;
+  font-size:50px;
   margin-left: 0px;
+
 }
 
-h3 {
-  color: black;
-  font-family: helvetica
-  margin-left:0px
-}
+
 div.contrast {
   background-color: white ;
   color: white ;
@@ -29,9 +31,6 @@ div.contrast {
   margin-right: 700px;
 
 
-}
-li{
-  display: inline;
 }
 li{
   display: inline;
