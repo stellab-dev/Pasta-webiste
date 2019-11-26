@@ -9,6 +9,12 @@ h2 {
   font-family: helvetica;
   margin-left: 0px;
 }
+
+h3 {
+  color: black;
+  font-family: helvetica
+  margin-left:0px
+}
 div.contrast {
   background-color: white ;
   color: white ;
@@ -21,6 +27,5 @@ div.contrast {
 .round {
   margin-left: 300px;
   margin-right: 0px;
-  
 
 }
