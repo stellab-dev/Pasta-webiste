@@ -29,9 +29,45 @@ div.contrast {
 .round {
   margin-left: 300px;
   margin-right: 700px;
+  border-radius: 8px
+}
 
+.logo{
+  height: 103px;
+}
+
+.bg-light {
+    background-color: #181e23 !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #f2f2f2;
+   font-family: 'Roboto', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+  color: #f2f2f2;
+}
+.btn-outline-success:hover {
+  background-color:  #f2f2f2
+}
+li { margin: 0 30px;
+  display: inline;
+}
+
+#searchbutton {
+  background-color: black;
+  color: white;
+  border-color: white;
 
 }
-li{
-  display: inline;
+
+.maincontent {
+  display: flex;
+
+}
+
+.hero{
+  width: 50%
+}
+.text {
+  width: 50%
 }
