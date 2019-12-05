@@ -1,18 +1,18 @@
 
 
 h1 {
-  color:black;
+  color:#8c885f;
   font-family: helvetica;
   font-size: 72px;
   margin: 0px;
 }
 
 h2 {
-  color: black ;
-  font-family: helvetica;
-  font-style: italic;
-  font-size:50px;
-  margin-left: 0px;
+  color: black;
+font-family: auto;
+font-style: italic;
+font-size: 50px;
+margin-left: 0px;
 
 }
 
@@ -37,10 +37,10 @@ div.contrast {
 }
 
 .bg-light {
-    background-color: #181e23 !important;
+    background-color: #f2f2f2 !important;
 }
-.navbar-light .navbar-nav .nav-link {
-    color: #f2f2f2;
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(141, 136, 93);
    font-family: 'Roboto', sans-serif;
 }
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
@@ -54,7 +54,7 @@ li { margin: 0 30px;
 }
 
 #searchbutton {
-  background-color: black;
+  background-color: #8d8860;
   color: white;
   border-color: white;
 
