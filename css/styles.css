@@ -67,6 +67,11 @@ li { margin: 0 30px;
 .hero{
   width: 50%
 }
-.text {
-  width: 50%
+
+.centre {
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    top: 400px;
+    left: 30px;
 }
