@@ -1,0 +1,75 @@
+
+h1 {
+  /* color:#8c885f; */
+  color: white;
+  font-family: garamond;
+  font-size: 90px;
+  margin: 0px;
+
+}
+P{
+  color: white;
+  font-family: garamond;
+  font-size: 20px;
+  margin: 0px;
+}
+
+.map{
+  margin-right: 450px;
+
+}
+
+
+div.contrast {
+  background-color: white ;
+  color: white ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.round {
+  margin-left: 300px;
+  margin-right: 700px;
+  border-radius: 8px
+}
+
+.logo{
+  height: 103px;
+}
+
+.bg-light {
+    background-color: #f2f2f2 !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(0, 0, 0);
+   font-family: 'Roboto', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+  color: #f2f2f2;
+}
+.btn-outline-success:hover {
+  background-color:  #f2f2f2
+}
+li { margin: 0 30px;
+  display: inline;
+}
+
+#searchbutton {
+  background-color: black;
+  color: white;
+  border-color: white;
+  Search: "recipes"
+
+}
+
+.maincontent {
+  display: flex;
+
+}
+
+.container {
+  position: left;
+  text-align: center;
+}
