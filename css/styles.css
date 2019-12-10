@@ -5,14 +5,16 @@ h1 {
   font-family: garamond;
   font-size: 90px;
   margin: 0px;
+  background-color: ##e7ab4400;
 }
 
 h2 {
   color: white;
-  font-family: auto;
-  font-style: italic;
-  font-size: 50px;
-  margin-left: 0px;
+font-family: auto;
+font-style: italic;
+font-size: 50px;
+margin-left: 0px;
+  background-color: ##e7ab4400;
 
 }
 
@@ -118,7 +120,7 @@ li { margin: 0 30px;
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 1110px;
   position: relative;
   margin: auto;
 }
