@@ -5,29 +5,27 @@ h1 {
   font-family: garamond;
   font-size: 90px;
   margin: 0px;
-  background-color: #e7ab447d;
 }
 
 h2 {
   color: white;
-font-family: auto;
-font-style: italic;
-font-size: 50px;
-margin-left: 0px;
-  background-color: #e7ab447d;
+  font-family: auto;
+  font-style: italic;
+  font-size: 50px;
+  margin-left: 0px;
 
 }
 
 h3 {
   color: white;
-font-family: auto;
-font-style: italic;
-font-size: 50px;
-margin-left: 0px;
-position: absolute;
-top: 400px;
-left: 20px;
-width: 650px;
+  font-family: auto;
+  font-style: italic;
+  font-size: 50px;
+  margin-left: 0px;
+  position: absolute;
+  top: 400px;
+  left: 20px;
+  width: 650px;
 
 }
 
